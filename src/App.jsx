@@ -39,8 +39,8 @@ function App() {
 
       <section id="contact">
         <h2>Контакты</h2>
-        <p>Телефон: <a href="tel:+71234567890">+7 911 609 73 25</a></p>
-        <p>Email: <a href="telegram">@Mz0lf</a></p>
+        <p>Телефон:+7 911 609 73 25</p>
+        <p>Telegram: <a href="telegram">@Mz0lf</a></p>
       </section>
 
       <footer>
