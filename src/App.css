@@ -94,6 +94,10 @@ h2 {
 }
 
 @media (max-width:  1399.98px) {
+  *{
+    max-width: max-content;
+  }
+
   header{
     display: flex;
     justify-self: flex-start;
@@ -108,5 +112,21 @@ h2 {
   }
   .btn {
     padding: 4px 10px;
+  }
+
+  .head{
+    margin-right: 5px;
+  }
+
+  section{
+    display: none;
+  }
+
+  footer{
+    display: none;
+  }
+
+  .about_h1{
+    font-size: 10px;
   }
 }
