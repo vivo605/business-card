@@ -46,7 +46,7 @@ function App() {
         <p>Telegram: <a href="https://t.me/Mz0lf">@Mz0lf</a></p>
       </section>
 
-      <section id='cat'></section>
+      <section id='cat'><p>А фиг тебе)))</p></section>
 
       <footer>
         <p>&copy; 2023 Vivo. Все права защищены. Это я защищаю)</p>
