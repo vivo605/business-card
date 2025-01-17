@@ -1,6 +1,8 @@
 import {} from 'react';
 import './App.css';
 
+// http:anecdotica.ru/help/api.html
+
 function App() {
   return (
     <div className="all">
@@ -11,6 +13,7 @@ function App() {
             <li><a href="#about">О мне</a></li>
             <li><a href="#services">Что я могу тебе сделать</a></li>
             <li><a href="#contact">Контакты</a></li>
+            <li><a href="#cat">Шутка про котиков)))</a></li>
           </ul>
         </nav>
         <a href="#contact" className="btn">Связаться со мной</a>
@@ -42,6 +45,8 @@ function App() {
         <p>Телефон:+7 911 609 73 25</p>
         <p>Telegram: <a href="https://t.me/Mz0lf">@Mz0lf</a></p>
       </section>
+
+      <section id='cat'></section>
 
       <footer>
         <p>&copy; 2023 Vivo. Все права защищены. Это я защищаю)</p>

@@ -43,6 +43,10 @@ header .logo {
   width: 1903px;
 }
 
+.head{
+  color: aliceblue;
+}
+
 nav ul {
   list-style: none;
   display: flex;
@@ -87,4 +91,10 @@ section {
 
 h2 {
   margin-bottom: 15px;
+}
+
+@media (max-width: 1399.98px){
+  header{
+    max-width: 1000px;
+  }
 }
