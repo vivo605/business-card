@@ -4,6 +4,7 @@
   padding: 0;
   color: black;
   text-align: center;
+  list-style: none;
 }
 
 header {
@@ -50,6 +51,7 @@ header .logo {
 nav ul {
   list-style: none;
   display: flex;
+  list-style: none
 }
 
 nav ul li {
@@ -118,11 +120,11 @@ h2 {
     margin-right: 5px;
   }
 
-  section{
-    display: none;
+  #services{
+    display: block;
   }
 
-  footer{
-    display: none;
+  #contact{
+    display: block;
   }
 }
