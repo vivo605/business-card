@@ -13,21 +13,21 @@ function App() {
             <li><a href="#about">О мне</a></li>
             <li><a href="#services">Что я могу тебе сделать</a></li>
             <li><a href="#contact">Контакты</a></li>
-            <li><a href="#cat">Шутка про котиков)))</a></li>
+            <li><a href="#jacks">Шутки))</a></li>
           </ul>
         </nav>
         <a href="#contact" className="btn">Связаться со мной</a>
       </header>
 
       <section id="hero">
-        <h1>Добро пожаловать</h1>
+        <h1 className='about_h1'>Добро пожаловать</h1>
         <p>Я Vivo. Извените но мобильная версия сайта находится в разработке.Скоро всё заработает в стандартном режиме) Приблезительная дата релиза: 24 января 2025 года)</p>
       </section>
 
       <section id="about">
-        <h2 className='about_h1'>Обо мне</h2>
-        <p>Я Vivo по крайней мере в тг в жизни я гений милардер филонтроп)) Кста факт я люблю програмировать сылка на GitHub https://github.com/vivo605. Мои друзья в тг: @Camp_V, @ToplyonokXD, @Meow14_26 
-        они не давалии согласиия.</p>
+        <h2>Обо мне</h2>
+        <h3>Я Vivo по крайней мере в тг в жизни я гений милардер филонтроп)) Кста факт я люблю програмировать сылка на GitHub https://github.com/vivo605. Мои друзья в тг: @Camp_V, @ToplyonokXD, @Meow14_26 
+        они не давалии согласиия.</h3>
       </section>
 
       <section id="services">
@@ -40,13 +40,13 @@ function App() {
         </ul>
       </section>
 
+      <section id='jacks'><p>А фиг тебе)))</p></section>
+
       <section id="contact">
         <h2>Контакты</h2>
         <p>Телефон:+7 911 609 73 25</p>
         <p>Telegram: <a href="https://t.me/Mz0lf">@Mz0lf</a></p>
       </section>
-
-      <section id='cat'><p>А фиг тебе)))</p></section>
 
       <footer>
         <p>&copy; 2023 Vivo. Все права защищены. Это я защищаю)</p>
