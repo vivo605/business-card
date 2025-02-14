@@ -2,6 +2,7 @@ import {} from 'react';
 import './App.css';
 
 // http:anecdotica.ru/help/api.html
+// start npm run dev
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
               <li><a href="#about">О мне</a></li>
               <li><a href="#services">Что я могу тебе сделать</a></li>
               <li><a href="#contact">Контакты</a></li>
-              <li><a href="#jacks">Шутки))</a></li>
+              <li><a href="heart.html">Сердечко</a></li>
             </ul>
           </nav>
           <a href="#contact" className="btn">Связаться со мной</a>
@@ -22,7 +23,7 @@ function App() {
 
         <section id="hero">
           <h1>Добро пожаловать</h1>
-          <h4>Я Vivo. Извените но мобильная версия сайта находится в разработке.Скоро всё заработает в стандартном режиме) Приблезительная дата релиза: 26 января 2025 года)</h4>
+          <h4>Я Vivo.</h4>
         </section>
 
         <section id="about">
